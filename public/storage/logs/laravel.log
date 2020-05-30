@@ -1,0 +1,3 @@
+[2020-03-06T04:37:00.007261+00:00] FreshTrak.ERROR: ErrorFile : /var/www/html/midOhio/fresh-trak/sourceCode/backend/app/Http/Controllers/Module/ModuleController.php \nError Line : 29\nError Message : Division by zero [] []
+[2020-03-06T04:38:06.296168+00:00] FreshTrak.ERROR: ErrorFile : /var/www/html/midOhio/fresh-trak/sourceCode/backend/app/Http/Controllers/Module/ModuleController.php \nError Line : 29\nError Message : Division by zero [] []
+[2020-03-06T05:11:10.486158+00:00] FreshTrak.ERROR: ErrorFile : /var/www/html/midOhio/fresh-trak/sourceCode/backend/app/Http/Controllers/Module/ModuleController.php \nError Line : 29\nError Message : Division by zero [] []
