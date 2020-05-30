@@ -8,8 +8,6 @@ use App\Http\Controllers\Controller;
 use App\Services\Example\ExampleService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Config;
-use Mockery\Exception;
-use Validator;
 
 class ExampleController extends Controller {
     public $exampleService;

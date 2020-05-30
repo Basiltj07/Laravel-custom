@@ -8,9 +8,8 @@ use OwenIt\Auditing\Contracts\Auditable;
 
 class Example extends Model implements Auditable
 {
-//    use SoftDeletes;
+    use SoftDeletes;
     use \OwenIt\Auditing\Auditable;
-//    protected $dates = ['deleted_at'];
     protected $table = "sample";
     protected $fillable = [
         'example_name',

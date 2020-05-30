@@ -2,7 +2,6 @@
 
 namespace App\Services\Example;
 use App\Repositories\Example\ExampleRepository;
-use Zend\Diactoros\Request;
 
 class ExampleService {
 

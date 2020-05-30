@@ -1,13 +1,14 @@
 <?php 
 
-namespace App\Repositories\Agency;
+namespace App\Repositories\Example;
 
-use App\Models\Agency\Example;
-use App\Models\Forms;
-use function GuzzleHttp\Promise\all;
-use Illuminate\Support\Facades\DB;
+use App\Models\Example\Example;
+use Infrastructure\Repository\BaseRepository as Repository;
 
-class ExampleRepository {
+class ExampleRepository extends Repository{
+     public function getModel() {
+        return new Example();
+    }
 
     public function createExample($exampleData) {
         return Example::create($exampleData);
