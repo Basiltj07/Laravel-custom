@@ -55,7 +55,7 @@ If you find any difficulty in setting up or development with this package, pleas
 
 ## Contributors
 
-**[Akshay S](mailto:akshay.s@inapp.com)**
+**[Akshay S](mailto:sakshay797@gmail.com)**
 
 **[Abhiram H](mailto:abhiramh1@gmail.com)**
 
