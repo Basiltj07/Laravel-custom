@@ -57,15 +57,17 @@ If you find any difficulty in setting up or development with this package, pleas
 
 **[Akshay S](mailto:akshay.s@inapp.com)**
 
-**[Arjun R Kumar](mailto:arjun.kumar@inapp.com)**
+**[Abhiram H](mailto:abhiramh1@gmail.com)**
 
-**[Basil TJ](mailto:basil@inapp.com)**
+**[Arjun R Kumar](mailto:arjunrk.kumar@gmail.com)**
+
+**[Basil TJ](mailto:basiltj07@gmail.com)**
 
 **[Bobin Lukose](mailto:bobin.lukose@inapp.com)**
 
-**[Kavya Sasikala](mailto:kavya.sasikala@inapp.com)**
+**[Kavya Sasikala](mailto:kavyasasikalavp@gmail.com)**
 
-**[RJ Anoop](mailto:anoop.rj@inapp.com)**
+**[RJ Anoop](mailto:mail.anooprj@gmail.com)**
 
 ## License
 
