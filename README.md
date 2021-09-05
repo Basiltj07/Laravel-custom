@@ -1,10 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
-<p align="center">Customized By : <img src="https://inapp.com/wp-content/uploads/2018/07/InApp-Logo-CMYK.jpg" width="75"></p>
-
-<p align="center">
-Version 1.0.0
-</p>
+<p align="center"><img src="https://res.cl
 
 ## About Laravel
 
@@ -50,24 +44,9 @@ With this package, we have included:
 
 ## Support
 
-If you find any difficulty in setting up or development with this package, please send an e-mail to the contributors. All issues will be promptly addressed.
+If you find any difficulty in setting up or development with this package, please send an e-mail to the contributors. All issues will be promptly addressed
 
-
-## Contributors
-
-**[Akshay S](mailto:sakshay797@gmail.com)**
-
-**[Abhiram H](mailto:abhiramh1@gmail.com)**
-
-**[Arjun R Kumar](mailto:arjunrk.kumar@gmail.com)**
-
-**[Basil TJ](mailto:basiltj07@gmail.com)**
-
-**[Bobin Lukose](mailto:bobin.lukose@inapp.com)**
-
-**[Kavya Sasikala](mailto:kavyasasikalavp@gmail.com)**
-
-**[RJ Anoop](mailto:mail.anooprj@gmail.com)**
+**
 
 ## License
 
